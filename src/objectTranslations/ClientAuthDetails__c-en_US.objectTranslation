@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>ClientAuthDetails</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>ClientAuthDetails</value>
+    </caseValues>
+    <fields>
+        <label><!-- SuperUserProfile --></label>
+        <name>SuperUserProfile__c</name>
+    </fields>
+    <fields>
+        <label><!-- SyncHour(s) --></label>
+        <name>SyncHour__c</name>
+    </fields>
+    <fields>
+        <label><!-- clientId --></label>
+        <name>clientId__c</name>
+    </fields>
+    <fields>
+        <label><!-- clientSecret --></label>
+        <name>clientSecret__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

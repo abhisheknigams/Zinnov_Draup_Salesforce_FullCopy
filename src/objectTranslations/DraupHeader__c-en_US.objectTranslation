@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>DraupHeader</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>DraupHeaders</value>
+    </caseValues>
+    <fields>
+        <label><!-- Account --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- DraupHeaders --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Contact --></label>
+        <name>Contact__c</name>
+        <relationshipLabel><!-- DraupHeaders --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Draup Id --></label>
+        <name>Draup_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lead --></label>
+        <name>Lead__c</name>
+        <relationshipLabel><!-- DraupHeaders --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Type --></label>
+        <name>Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- displayOrder --></label>
+        <name>displayOrder__c</name>
+    </fields>
+    <layouts>
+        <layout>DraupHeader Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- Draup Psychological Analysis --></label>
+        <name>Draup_Psychological_Analysis</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Executive Movement --></label>
+        <name>ExecutiveMovement</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Experience --></label>
+        <name>Experience</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Globalization --></label>
+        <name>Globalization</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Hiring --></label>
+        <name>Hiring</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Outsourcing --></label>
+        <name>Outsourcing</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Overview --></label>
+        <name>Overview</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Strategic Signals --></label>
+        <name>Signals</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Digital Tech Stack --></label>
+        <name>TechStack</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

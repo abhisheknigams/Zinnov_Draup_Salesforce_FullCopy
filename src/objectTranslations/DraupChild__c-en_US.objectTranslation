@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>DraupChild</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>DraupChild</value>
+    </caseValues>
+    <fields>
+        <label><!-- Budget Control --></label>
+        <name>BudgetControl__c</name>
+    </fields>
+    <fields>
+        <label><!-- Business Unit --></label>
+        <name>BusinessUnit__c</name>
+    </fields>
+    <fields>
+        <label><!-- Categories --></label>
+        <name>Categories__c</name>
+    </fields>
+    <fields>
+        <label><!-- Company Name --></label>
+        <name>CompanyName__c</name>
+    </fields>
+    <fields>
+        <label><!-- Contact Details --></label>
+        <name>ContactDetails__c</name>
+    </fields>
+    <fields>
+        <label><!-- Country --></label>
+        <name>Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dates --></label>
+        <name>Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Deal Size Influence --></label>
+        <name>DealSizeInfluence__c</name>
+    </fields>
+    <fields>
+        <label><!-- Designation --></label>
+        <name>Designation__c</name>
+    </fields>
+    <fields>
+        <label><!-- DraupHeader --></label>
+        <name>DraupHeader__c</name>
+        <relationshipLabel><!-- DraupChild --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- End --></label>
+        <name>End__c</name>
+    </fields>
+    <fields>
+        <label><!-- Engagement Guidelines --></label>
+        <name>EngagementGuidelines__c</name>
+    </fields>
+    <fields>
+        <label><!-- From Title --></label>
+        <name>ExecutiveMovementTitle__c</name>
+    </fields>
+    <fields>
+        <label><!-- Executive Name --></label>
+        <name>ExecutiveName__c</name>
+    </fields>
+    <fields>
+        <label><!-- Headcount --></label>
+        <name>Headcount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Headquarters --></label>
+        <name>Headquarters__c</name>
+    </fields>
+    <fields>
+        <label><!-- Image Link --></label>
+        <name>ImageLink__c</name>
+    </fields>
+    <fields>
+        <label><!-- Interests --></label>
+        <name>Interests__c</name>
+    </fields>
+    <fields>
+        <label><!-- Key Locations --></label>
+        <name>KeyLocations__c</name>
+    </fields>
+    <fields>
+        <label><!-- Key Skills Hired --></label>
+        <name>KeySkillsHired__c</name>
+    </fields>
+    <fields>
+        <label><!-- Key Sub Verticals --></label>
+        <name>KeySubVerticals__c</name>
+    </fields>
+    <fields>
+        <label><!-- Key Vendors Engaged --></label>
+        <name>KeyVendorsEngaged__c</name>
+    </fields>
+    <fields>
+        <label><!-- Key Vendors --></label>
+        <name>KeyVendors__c</name>
+    </fields>
+    <fields>
+        <label><!-- Link --></label>
+        <name>Link__c</name>
+    </fields>
+    <fields>
+        <label><!-- Location Class --></label>
+        <name>LocationClass__c</name>
+    </fields>
+    <fields>
+        <label><!-- Location --></label>
+        <name>Location__c</name>
+    </fields>
+    <fields>
+        <label><!-- Locations --></label>
+        <name>Locations__c</name>
+    </fields>
+    <fields>
+        <label><!-- Movement Date --></label>
+        <name>MovementDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Opportunity Index --></label>
+        <name>OpportunityIndex__c</name>
+    </fields>
+    <fields>
+        <label><!-- Personality Characteristics --></label>
+        <name>PersonalityCharacteristics__c</name>
+    </fields>
+    <fields>
+        <label><!-- R&amp;D Spend Growth --></label>
+        <name>RDSpendGrowth__c</name>
+    </fields>
+    <fields>
+        <label><!-- R&amp;D Spend --></label>
+        <name>RDSpend__c</name>
+    </fields>
+    <fields>
+        <label><!-- Role --></label>
+        <name>Role__c</name>
+    </fields>
+    <fields>
+        <label><!-- StartDate --></label>
+        <name>StartDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Start --></label>
+        <name>Start__c</name>
+    </fields>
+    <fields>
+        <label><!-- Strategic Date --></label>
+        <name>StrategicDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Strategic Signal Title --></label>
+        <name>StrategicSignalTitle__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account Sub Verticals --></label>
+        <name>SubVerticalsAccount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Lead Sub Verticals --></label>
+        <name>SubVerticalsLead__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tag --></label>
+        <name>Tag__c</name>
+    </fields>
+    <fields>
+        <label><!-- TechStack --></label>
+        <name>TechStack__c</name>
+    </fields>
+    <fields>
+        <label><!-- To Title --></label>
+        <name>To_Title__c</name>
+    </fields>
+    <fields>
+        <label><!-- Top Locations --></label>
+        <name>TopLocations__c</name>
+    </fields>
+    <fields>
+        <label><!-- Top Titles --></label>
+        <name>TopTitles__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total IT Workforce --></label>
+        <name>TotalITWorkforce__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total R&amp;D Workforce --></label>
+        <name>TotalRDWorkforce__c</name>
+    </fields>
+    <fields>
+        <label><!-- Type --></label>
+        <name>Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- Vendors --></label>
+        <name>Vendors__c</name>
+    </fields>
+    <fields>
+        <label><!-- expOrder --></label>
+        <name>expOrder__c</name>
+    </fields>
+    <layouts>
+        <layout>DraupChild Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- Overview --></label>
+        <name>Overview</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
